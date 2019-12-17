@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3847" started-at="2019-11-15T05:55:08Z" finished-at="2019-11-15T05:55:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3847" started-at="2019-11-15T05:55:08Z" finished-at="2019-11-15T05:55:12Z">
+      <class name="requestData.Get_Request_Employees">
+        <test-method status="PASS" signature="commmanmethod()[pri:0, instance:requestData.Get_Request_Employees@26be92ad]" name="commmanmethod" is-config="true" duration-ms="116" started-at="2019-11-15T05:55:08Z" finished-at="2019-11-15T05:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commmanmethod -->
+        <test-method status="PASS" signature="name()[pri:0, instance:requestData.Get_Request_Employees@26be92ad]" name="name" is-config="true" duration-ms="3620" started-at="2019-11-15T05:55:08Z" finished-at="2019-11-15T05:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method status="PASS" signature="Reponsebody()[pri:0, instance:requestData.Get_Request_Employees@26be92ad]" name="Reponsebody" duration-ms="47" started-at="2019-11-15T05:55:11Z" finished-at="2019-11-15T05:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reponsebody -->
+        <test-method status="PASS" signature="Statuscode()[pri:0, instance:requestData.Get_Request_Employees@26be92ad]" name="Statuscode" duration-ms="6" started-at="2019-11-15T05:55:12Z" finished-at="2019-11-15T05:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Statuscode -->
+        <test-method status="PASS" signature="contenttype()[pri:0, instance:requestData.Get_Request_Employees@26be92ad]" name="contenttype" duration-ms="14" started-at="2019-11-15T05:55:12Z" finished-at="2019-11-15T05:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contenttype -->
+      </class> <!-- requestData.Get_Request_Employees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
